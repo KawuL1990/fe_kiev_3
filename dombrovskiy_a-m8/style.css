@@ -30,7 +30,7 @@
 .keyboard__btn--active {
     border: 1px solid transparent;
     background-color: #03a9f4;
-    color: red;
+    color: #fff;
 }
 
 .keyboard__btn:last-child {
